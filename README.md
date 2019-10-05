@@ -1,12 +1,12 @@
 <div align='center'>
   
-# Super Learner
+# Super Learner Classifier
 </div>
 
 My implementation of the stacked ensemble super learner as described in Mark J. van der Laan (2007).
 
 <p align="center">
-<img src="https://github.com/alanjeffares/super_learner/blob/master/fig1.png"  width="500">
+<img src="https://github.com/alanjeffares/super_learner/blob/master/fig1.png"  width="700">
 </p>
 
 ## File Descriptions
