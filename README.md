@@ -11,7 +11,7 @@ My implementation of the stacked ensemble Super Learner as described in Mark J. 
 
 ## File Descriptions
 * `superlearner.py` contains my implementation of the classifier.
-* `something.ipynb` is a jupyter notebook demonstrating an example usage on the fashion MNIST dataset.
+* `analysis.ipynb` is a jupyter notebook demonstrating an example usage on the fashion MNIST dataset.
 
 ## Usage
 Navigate to the repository folder and simply run `from superlearner import SuperLearnerClassifier` in python.
