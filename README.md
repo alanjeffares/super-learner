@@ -3,7 +3,7 @@
 # Super Learner Classifier
 </div>
 
-My implementation of the stacked ensemble Super Learner as described in Mark J. van der Laan et al, (2007). The Super Learner is a heterogeneous stacked ensemble classifier. This is a classification model that uses a set of base classifiers of different types, the outputs of which are then combined in another classifier at the stacked layer.
+My implementation of the stacked ensemble Super Learner as described in [Mark J. van der Laan et al, (2007)](https://biostats.bepress.com/ucbbiostat/paper222/). The Super Learner is a heterogeneous stacked ensemble classifier. This is a classification model that uses a set of base classifiers of different types, the outputs of which are then combined in another classifier at the stacked layer.
 
 <p align="center">
 <img src="https://github.com/alanjeffares/super_learner/blob/master/fig1.png"  width="700">
